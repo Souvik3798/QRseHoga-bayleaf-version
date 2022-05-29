@@ -392,8 +392,8 @@
 
                                 </ul>
                             </div>
-                            <div class="pricing-footer"><a class="btn-default btn-border" href="#">Purchase Now</a>
-                            </div>
+                            {{-- <div class="pricing-footer"><a class="btn-default btn-border" href="#">Purchase Now</a>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -418,8 +418,8 @@
 
                                 </ul>
                             </div>
-                            <div class="pricing-footer"><a class="btn-default" href="#">Purchase Now</a>
-                            </div>
+                            {{-- <div class="pricing-footer"><a class="btn-default" href="#">Purchase Now</a>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -445,8 +445,8 @@
 
                                 </ul>
                             </div>
-                            <div class="pricing-footer"><a class="btn-default btn-border" href="#">Purchase Now</a>
-                            </div>
+                            {{-- <div class="pricing-footer"><a class="btn-default btn-border" href="#">Purchase Now</a>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
